@@ -1,0 +1,10 @@
+
+TransMitter Nano: 
+            1. MPU 6050 -- triple axis accelerometer + gyrosensor.
+            Pin 
+            Amader transmitter er bluetooth 3.3 volt e connection deya, as er beshi dile noshto hoye jabe
+            Receiver er BM er VCC 3.3 connected.
+
+           motor driver to  uno 10, 11, 12, 13.
+
+bluetooth module -- HC05
